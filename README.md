@@ -20,7 +20,5 @@ I'm **Rahul Ray**, a **Front-End and Full-Stack Developer** passionate about bui
 ## 📬 Reach Me:
 📧 **Email:** [ray_rahul@outlook.com](mailto:ray_rahul@outlook.com)  
 🐦 **Twitter (X):** [@fossxpert](https://x.com/fossxpert)  
-💬 **Telegram:** [t.me/fossxpert](https://t.me/fossxpert) **(Scan QR to Contact 📲)**
-![image](https://github.com/user-attachments/assets/d6ab90fe-95e9-449c-a9aa-bf747780ed88)
-
+💬 **Telegram:** [t.me/fossxpert](https://t.me/fossxpert)
 
