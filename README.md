@@ -1,7 +1,18 @@
-- 👋 Hi, I’m @FossXpert
-- 👀 I’m interested in open-source development, web development, and exploring new technologies.
-- 🌱 I’m currently learning the MERN Stack (MongoDB, Express.js, React.js, Node.js) and honing my skills as a full-stack developer.
-- 💞️ I’m looking to collaborate on exciting open-source projects that contribute to the community and push the boundaries of technology.
-- 📫 You can reach me via email at (ray_rahul@outlook.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/rahulray8516/).
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm passionate about sharing knowledge and empowering others through technology!
+I'm Rahul Ray, a Front-End and full-stack Developer passionate about building scalable, high-performance web applications. I specialize in React, Next.js, TypeScript, and Node.js, with a strong focus on performance optimization and DevOps workflows.
+
+🔧 Tech Stack & Skills
+Frontend: React, Next.js, TypeScript, Tailwind CSS, MUI
+Backend: Node.js, Express.js, REST APIs, Microservices
+DevOps & Cloud: AWS, CI/CD (GitHub Actions, Docker), Redis
+Testing & Performance: Jest, React Testing Library, Web Optimization
+🚀 Projects & Contributions
+📌 Udemy Pro → A full-stack course-selling platform with JWT authentication, Redis caching & CI/CD pipeline.
+📌 Custom React Hooks → Reusable hooks for device detection, performance tracking, and API state management.
+📊 GitHub Stats
+
+💡 Always exploring: GraphQL, Serverless, and Web Performance Profiling. Open to collaborations & contributions—let’s build something awesome!
+
+📬 Reach Me:
+📧 Email: ray_rahul@outlook.com
+🐦 Twitter (X): @fossxpert
+💬 Telegram: t.me/fossxpert (Scan QR to Contact 📲)
