@@ -18,7 +18,7 @@ I'm **Rahul Ray**, a **Front-End and Full-Stack Developer** passionate about bui
 💡 **Always exploring:** **GraphQL, Serverless, and Web Performance Profiling**. Open to **collaborations & contributions**—let’s build something awesome!  
 
 ## 📬 Reach Me:
-📧 **Email:** [ray_rahul@outlook.com](mailto:ray_rahul@outlook.com)  
+📧 **Email:** [rahul.infy02@gmail.com](mailto:rahul.infy02@gmail.com)  
 🐦 **Twitter (X):** [@fossxpert](https://x.com/fossxpert)  
 💬 **Telegram:** [t.me/fossxpert](https://t.me/fossxpert)
 
